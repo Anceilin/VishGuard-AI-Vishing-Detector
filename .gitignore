@@ -1,0 +1,13 @@
+﻿__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+*.db
+*.wav
+*.mp3
+dataset/
+training_data/
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db

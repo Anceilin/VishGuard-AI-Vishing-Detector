@@ -1,0 +1,12 @@
+﻿streamlit
+fastapi
+uvicorn[standard]
+requests
+numpy
+pandas
+scikit-learn
+librosa
+soundfile
+langdetect
+openai-whisper
+joblib
